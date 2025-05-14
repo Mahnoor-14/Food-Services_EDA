@@ -15,10 +15,14 @@ Key Analyses Performed
 
 * Missing values handled
 * Encoded categorical variables (e.g., staff experience levels)
+![image](https://github.com/user-attachments/assets/191e8673-7496-40f7-9227-541c03153fd8)
 
 ### 2. **Exploratory Data Analysis (EDA)**
+![image](https://github.com/user-attachments/assets/8a74b236-2bea-49cd-88f1-f169fb480161)
 
 * Histograms, boxplots, violin plots for staff and waste patterns
+* ![image](https://github.com/user-attachments/assets/38522c99-f0a9-4203-bd7a-396499f9a242)
+
 * Seasonal analysis of food waste
 * Scatterplots and pairwise relationships
 
@@ -27,6 +31,7 @@ Key Analyses Performed
 * **ANOVA**: Checked if staff experience affects food waste
 * **T-Test**: Compared waste during special events vs. regular days
 * **Correlation tests**: Studied relationships between waste and environmental factors
+![image](https://github.com/user-attachments/assets/b4ce68ca-1891-4e2d-b0b6-1320f69e7592)
 
 ### 4. **Time Series & Seasonal Trends**
 
@@ -46,11 +51,14 @@ Key Analyses Performed
 ![satf](https://github.com/user-attachments/assets/67d69dae-33d9-438c-8bd7-3b04d00f8040)
 
 * **Staff experience level** alone does **not significantly** impact food waste.
+![image](https://github.com/user-attachments/assets/ca5fb646-ff7b-4e1b-989f-cdcc4e9d7a8c)
+
 * **Temperature** shows weak positive correlation with waste — possibly due to spoilage.
 *![tt](https://github.com/user-attachments/assets/2a7fb1b7-4ef0-40f7-ae17-71d523825306)
 
 
 * **Special events** do not significantly increase waste statistically, though seasonal visual analysis suggests higher summer/winter event waste.
+![eventt](https://github.com/user-attachments/assets/9f3bdbb5-ad89-490b-9b5b-b0a5e8b427f2)
 
 ---
 
