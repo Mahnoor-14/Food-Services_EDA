@@ -43,8 +43,13 @@ Key Analyses Performed
 ## 📌 Key Findings
 
 * **Kitchen staff size** (16–17) is associated with more consistent and lower food waste.
+![satf](https://github.com/user-attachments/assets/67d69dae-33d9-438c-8bd7-3b04d00f8040)
+
 * **Staff experience level** alone does **not significantly** impact food waste.
 * **Temperature** shows weak positive correlation with waste — possibly due to spoilage.
+*![tt](https://github.com/user-attachments/assets/2a7fb1b7-4ef0-40f7-ae17-71d523825306)
+
+
 * **Special events** do not significantly increase waste statistically, though seasonal visual analysis suggests higher summer/winter event waste.
 
 ---
